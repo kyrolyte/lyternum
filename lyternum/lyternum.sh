@@ -45,7 +45,7 @@ int_to_roman() {
 }
 
 if [ $# -ne 1 ]; then
-    echo "Usage: romara <roman_numeral | number>"
+    echo "Usage: lrnum <roman_numeral | number>"
     exit 1
 fi
 

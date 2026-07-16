@@ -1,6 +1,6 @@
-# Romara Numeral
+# Lyternum
 
-Romara Numeral is a simple terminal application written in Bash. It allows users to quickly convert Roman numerals into Arabic numbers directly from the command line.
+Lyternum is a simple terminal application written in Bash. It allows users to quickly convert Roman numerals into Arabic numbers directly from the command line.
 
 ## Features
 
@@ -10,10 +10,10 @@ Romara Numeral is a simple terminal application written in Bash. It allows users
 
 ## Usage
 
-Simply type `romara` in your terminal followed by a Roman numeral string, for example:
+Simply type `lrnum` in your terminal followed by a Roman numeral string, for example:
 
 ```bash
-romara xxv
+lrnum xxv
 ```
 
 **Output:**
@@ -24,13 +24,13 @@ romara xxv
 ## Example
 
 ```bash
-$ romara iv
+$ lrnum iv
 4
 
-$ romara XLII
+$ lrnum XLII
 42
 
-$ romara mcmxcix
+$ lrnum mcmxcix
 1999
 ```
 
@@ -41,9 +41,9 @@ Follow the instructions below to install and uninstall the program.
 ### Installation
 
 1. **Open a terminal.**
-2. **Navigate to the `romara-numeral` folder:**
+2. **Navigate to the `lyternum` folder:**
    ```
-   cd romara-numeral
+   cd lyternum
    ```
 3. **Make the install script executable:**
    ```
